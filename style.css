@@ -1,0 +1,28 @@
+.logo{
+    text-align: center;
+    padding:40px 0px;
+}
+.navigation{
+    background:purple;
+    text-align: center;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+
+.navigation ul{
+    margin-bottom: 0px;
+}
+
+.navigation a{
+    color:white;
+}
+.content{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.footer{
+    background:black;
+    color:white;
+    text-align:center;
+    padding:80px 0px;
+}
